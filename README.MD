@@ -1,4 +1,4 @@
-# Magisk MOD by ABC00012345
+<h1 style="text-align: center;">Magisk MOD by ABC00012345</h1>
 
 ![](docs/images/logo.png)
 
